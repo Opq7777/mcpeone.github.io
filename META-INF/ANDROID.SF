@@ -1,0 +1,242 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: WfNhP0QGA0FJp8hoZinTQ66UMtE=
+X-Android-APK-Signed: 2,3
+
+Name: AndroidManifest.xml
+SHA1-Digest: SqPFgo4ImzeT7t2FIZxs+3e69eQ=
+
+Name: assets/font/default.png
+SHA1-Digest: mc8gD6DBxm0XkFEe2iPYJz4DjC4=
+
+Name: assets/gui/background.png
+SHA1-Digest: vXHrwhUgQWd0sMOgiUDwwF2KS2c=
+
+Name: assets/gui/buynow.png
+SHA1-Digest: BcFmwAQtOSAmOj+4gXjjy7Ro6Rw=
+
+Name: assets/gui/controls/dpad.png
+SHA1-Digest: EAvpmC7uw8POcD1koBpdp3re6tQ=
+
+Name: assets/gui/controls/dpad_jump.png
+SHA1-Digest: Rf6ZZN38h+r5EHebE7oY4TrUa3Y=
+
+Name: assets/gui/controls/dpadbutton.png
+SHA1-Digest: U07Lppk9aA42Nk3gO2Pq51eO/iA=
+
+Name: assets/gui/default_world.png
+SHA1-Digest: Hl29wxZ+oajqemrh8pNCUTPHICo=
+
+Name: assets/gui/feedback.png
+SHA1-Digest: w8jeJ+vB2kyNrUmYSN6VfnndBuA=
+
+Name: assets/gui/feedback_fill.png
+SHA1-Digest: sskNzIsW9aSXpM/YnCz8wXfS2V8=
+
+Name: assets/gui/feedback_outer.png
+SHA1-Digest: Ie71QQVOAb1RWbrOWN9oGPdVHS8=
+
+Name: assets/gui/gui.png
+SHA1-Digest: XYfO6e+eRRapZJ6XQy7WgVFvAGY=
+
+Name: assets/gui/gui_blocks.png
+SHA1-Digest: aAwx4JZSWfIq1d/ouh2WoND5MP4=
+
+Name: assets/gui/icons.png
+SHA1-Digest: f6R+Z7SoFGkg8pkdErq5CytofDg=
+
+Name: assets/gui/itemframe.png
+SHA1-Digest: zK62J53rlOkvycwzVNpFhFfoXGs=
+
+Name: assets/gui/items.png
+SHA1-Digest: accxiucgaDFQJPXe19jKr7Dq1EM=
+
+Name: assets/gui/menubuttons.png
+SHA1-Digest: Nuk5gTxyOAjDfmom+LdMG4j24BI=
+
+Name: assets/gui/plusknapp.png
+SHA1-Digest: nXkMM/TucUTNmQ5qNiMSASDnjs8=
+
+Name: assets/gui/selectworld/add.png
+SHA1-Digest: Tb3VStmPYjJlqU9IZNYLRW3S2Ps=
+
+Name: assets/gui/startmenu/sm_multi.png
+SHA1-Digest: EgOYc2b7lwMsN41UwUdEkjSz7sc=
+
+Name: assets/gui/startmenu/sm_options.png
+SHA1-Digest: Dw0spd8qkCEyvSrfkiXJnfbLvTE=
+
+Name: assets/gui/startmenu/sm_play.png
+SHA1-Digest: r95w7VBZ5CFT0M/h6eWt3ymNt/M=
+
+Name: assets/gui/title.png
+SHA1-Digest: BSLtN1pXH+u9drO1pJxDvjhRcwE=
+
+Name: assets/gui/touchgui.png
+SHA1-Digest: I86kXkFcL2y9VuEnYNgte14I0fg=
+
+Name: assets/item/camera.png
+SHA1-Digest: knTc2EDeb1qj9HxgmvstCQlruh0=
+
+Name: assets/mob/char.png
+SHA1-Digest: i1FM8xqLyj8m7eTwIXQ8aBlIffg=
+
+Name: assets/particles.png
+SHA1-Digest: LsmzVhudVjonQfwi5KlPJEQITD4=
+
+Name: assets/sounds/random/click.ogg
+SHA1-Digest: 3jGf6NrTYA3x6m1jvy1jQ8JYOtc=
+
+Name: assets/sounds/random/explode.ogg
+SHA1-Digest: nE2fC9l15WrNp/TBW+CbXUsCvLo=
+
+Name: assets/sounds/random/splash.ogg
+SHA1-Digest: kdXJGgorbI0SyCLJduOnebRL+34=
+
+Name: assets/terrain.png
+SHA1-Digest: WWuSN0zv+BM/4awNhuZ+bbKfhhg=
+
+Name: classes.dex
+SHA1-Digest: zXjVZtzW4cnOMx9GmbfydSk0ecg=
+
+Name: lib/armeabi-v7a/libminecraftpe.so
+SHA1-Digest: h1mm7qAbUSi28BssmHeBh7IjUFM=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: NxWwbCy8YaEyfigHoZLQo4rfpCc=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: FYOKhrrXKZZFgVUXQq3ayNQD4sA=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: J5IqwB2TkH+RPovzJT4bBsgDgWY=
+
+Name: res/drawable/bg32.png
+SHA1-Digest: LKy6Ea8IlJmF6Qyc2XHfzyBIZos=
+
+Name: res/drawable/bgtiled.xml
+SHA1-Digest: 4km/+t6apkjYmEBWN0LSoJkRvh8=
+
+Name: res/drawable/iconx.png
+SHA1-Digest: MxDfh/qKYG+CB4mu0DAxbyG+DfI=
+
+Name: res/layout/create_world_screen.xml
+SHA1-Digest: 83Y0sEV9z/ulaLxINNDqf19XYIE=
+
+Name: res/layout/main.xml
+SHA1-Digest: TRagmYMDjp7A949Ahx6nlwrXPjU=
+
+Name: res/layout/mainmenu_options.xml
+SHA1-Digest: j4AFPRFDqY0iPzAHVHbBH0TwvM4=
+
+Name: res/layout/rename_mp_world.xml
+SHA1-Digest: e6bclIMNxzjUSDcQwIGzZqbcxU4=
+
+Name: res/raw/click.ogg
+SHA1-Digest: vXLWPElh8w8aJUPbNBwRejqf9qs=
+
+Name: res/raw/cloth1.ogg
+SHA1-Digest: ZrSGyR4/0qv+vRTT8iKaPk2wlB8=
+
+Name: res/raw/cloth2.ogg
+SHA1-Digest: A0XasntThcJFudowQMyca4+Sdmw=
+
+Name: res/raw/cloth3.ogg
+SHA1-Digest: vERuLhkaDOE4ROYFRuQ8s06CS2U=
+
+Name: res/raw/cloth4.ogg
+SHA1-Digest: 2gfQsHuWGJ7eNDyIWZm8j/wR0zw=
+
+Name: res/raw/explode.ogg
+SHA1-Digest: JjFa2KtuvOdyAX/KPKnyBUBnK5k=
+
+Name: res/raw/grass1.ogg
+SHA1-Digest: vM6Qwpx5p1xzCA4afrINDBhtE9c=
+
+Name: res/raw/grass2.ogg
+SHA1-Digest: SAGy9xTX4qChrquYXQPnu72hQNc=
+
+Name: res/raw/grass3.ogg
+SHA1-Digest: YqPv35Ac+PuRoezBLE/qAWwqsjg=
+
+Name: res/raw/grass4.ogg
+SHA1-Digest: 3Ryeuv8GR8IfSWZOVknIyDo1m1U=
+
+Name: res/raw/gravel2.ogg
+SHA1-Digest: yWwlralB2ZBa1Dlpq6D1E5rZM0w=
+
+Name: res/raw/gravel3.ogg
+SHA1-Digest: M6Is7Qe/8zTr7aeq9kXl/24adQE=
+
+Name: res/raw/gravel4.ogg
+SHA1-Digest: nhL3IFptu0Qjp8w0Ih5Kwo4Ut2w=
+
+Name: res/raw/ladder1.ogg
+SHA1-Digest: N0+yZpNMLrkkcEX0uuPhACl57+Q=
+
+Name: res/raw/ladder2.ogg
+SHA1-Digest: tOoMcqUN836nU0IhqScqBiWwy6U=
+
+Name: res/raw/ladder3.ogg
+SHA1-Digest: 2sc/MFXEGjABfRRvUYuOofG02cY=
+
+Name: res/raw/ladder4.ogg
+SHA1-Digest: XLAYnm1T0mXrtVMAg8ZOQZLiEqg=
+
+Name: res/raw/sand1.ogg
+SHA1-Digest: PTUOYwUZxxCZNf2WYs5JBRmAmd8=
+
+Name: res/raw/sand2.ogg
+SHA1-Digest: t+PMfTfwAeTUhCOufLANyisme64=
+
+Name: res/raw/sand3.ogg
+SHA1-Digest: Dys1IPKLBDkzLIBO6Y7Owxai7Nk=
+
+Name: res/raw/sand4.ogg
+SHA1-Digest: YU0mKh01qFXZf6M3EGCa9PaG6sU=
+
+Name: res/raw/snow1.ogg
+SHA1-Digest: 920oUv1H1ZDe2gQ3JMXRf0NNun8=
+
+Name: res/raw/snow2.ogg
+SHA1-Digest: l2+lsGnmPOPtuvcZouoI3sC6WVI=
+
+Name: res/raw/snow3.ogg
+SHA1-Digest: vf4XOqFFxfl7m0+GFjRLM8yTD54=
+
+Name: res/raw/snow4.ogg
+SHA1-Digest: +ukMYDmjoDwbliFfS4LAkHHZz9M=
+
+Name: res/raw/splash.ogg
+SHA1-Digest: ULbrlVg2FrzoumHG790E7pc0y9o=
+
+Name: res/raw/stone1.ogg
+SHA1-Digest: VphsIggzijPN1BA9iz5tmvr7ClY=
+
+Name: res/raw/stone2.ogg
+SHA1-Digest: tEhLLCXqBt0jdUbGX4gexzHHEfQ=
+
+Name: res/raw/stone3.ogg
+SHA1-Digest: 4CiDZ3h5Gq+2XpLEzHa2uubRKdI=
+
+Name: res/raw/stone4.ogg
+SHA1-Digest: kY0g4Z2Thb1D9dYAykhf6Q1LJ2g=
+
+Name: res/raw/wood1.ogg
+SHA1-Digest: R4GaZ3e0Nn2Jra47fd+ehBedlRo=
+
+Name: res/raw/wood2.ogg
+SHA1-Digest: gxgo8erc+4YKu5AhZj0005axU9o=
+
+Name: res/raw/wood3.ogg
+SHA1-Digest: IS7PVBqV7VLit6EfZTsCoOWma/4=
+
+Name: res/raw/wood4.ogg
+SHA1-Digest: zmlHLpxSfppwIANaVktdo4ISVqo=
+
+Name: res/xml/preferences.xml
+SHA1-Digest: MvYuhxd/2mcQhJD2MdbkkdtB0Zk=
+
+Name: resources.arsc
+SHA1-Digest: wqKTRxyqFgjC6RWln9AXQXiIFzs=
+
